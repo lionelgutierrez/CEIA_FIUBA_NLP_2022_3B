@@ -90,7 +90,7 @@ El objetivo del sexto desafio fue Utilizar redes LSTM encoder - decoder para con
 * Esp. Ing. Hernán Contigiani
 * Msc. Rodrigo Cardenas Szigety
 
-## Autor e información de interes
+## Autor e información de contacto
 * Lionel Gutiérrez
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lionelgutierrez@gmail.com"><img src="images/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gutierrezlionel/"><img src="images/linkedin.svg" width="100" align="center"></a>
