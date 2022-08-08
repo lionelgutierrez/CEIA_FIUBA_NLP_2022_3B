@@ -21,10 +21,13 @@ Repositorio para los ejercicios de la materia procesamiento de lenguaje natural,
 ### [Desafío 5](Desafio%205\Desafio_5.ipynb)
 
 
+## Profesores
+* Esp. Ing. Hernán Contigiani
+* Msc. Rodrigo Cardenas Szigety
 
-# Profesores
-:white_circle: Esp. Ing. Hernán Contigiani
-:white_circle: Msc. Rodrigo Cardenas Szigety
+## Autor
+Lionel Gutiérrez
 
 
-:mailbox: 
+<a href="mailto:lionelgutierrez@gmail.com"><img src="images/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gutierrezlionel/"><img src="images/linkedin.svg" width="100" align="center"></a>
+
