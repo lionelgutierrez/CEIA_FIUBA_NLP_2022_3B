@@ -10,15 +10,15 @@ Repositorio para los ejercicios de la materia procesamiento de lenguaje natural,
 ## Contenido
 
 
-### [Desafío 1](Desafio_1.ipynb)
+### [Desafío 1](Desafio%201/Desafio_1.ipynb)
 
-### [Desafío 2](Desafio%202\Desafio_2.ipynb)
+### [Desafío 2](Desafio%202/Desafio_2.ipynb)
 
-### [Desafío 3](Desafio%203\Desafio_3.ipynb)
+### [Desafío 3](Desafio%203/Desafio_3.ipynb)
 
-### [Desafío 4](Desafio%204\Desafio_4.ipynb)
+### [Desafío 4](Desafio%204/Desafio_4.ipynb)
 
-### [Desafío 5](Desafio%205\Desafio_5.ipynb)
+### [Desafío 5](Desafio%205/Desafio_5.ipynb)
 
 
 ## Profesores
