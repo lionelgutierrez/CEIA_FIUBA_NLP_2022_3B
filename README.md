@@ -53,7 +53,7 @@ El objetivo del tercer desafio fue utilizar documentos / corpus para crear embed
 
 Los temas tratados durante la cuarta semana fueron:
 
-* Redes neuronales recurrentes (RNN).
+* Redes neuronales recurrentes (RNN)
 * Problemas de secuencia
 * Estimación de próxima palabra
 
@@ -69,9 +69,9 @@ Los temas tratados durante la quinta semana fueron:
 El objetivo del quinto desafio fue Utilizar Embeddings +
 LSTM para clasificar críticas de compradores de ropa (problema de análisis de sentimientos).
 
-Utilizando un dataset de criticas de compradores de ropa se entraron modelos con redes LSTM tanto con embeddings pre-entrenados como con embeddings entrenados en la misma red.
+Utilizando un dataset de criticas de compradores de ropa se entrenaron modelos con redes LSTM tanto con embeddings pre-entrenados como con embeddings entrenados en la misma red.
 
-Para este desafio se desarrollaron 2 jupyter notebboks separadas, dado que dataset tenía clases desbalanceadas y se implementó un modelo base y un modelo con oversampling de los datos, viendo mejoras en los resultados finales.
+Para este desafio se desarrollaron 2 jupyter notebboks separadas, dado que el dataset tenía clases desbalanceadas. Se implementó un modelo base y un modelo con oversampling de los datos, viendo mejoras en los resultados finales en este último.
 
 * #### [Desafío 5 base](Desafio%205/Desafio_5.ipynb)
 * #### [Desafío 5 con oversampling](Desafio%205/Desafio_5_oversampling.ipynb)
@@ -84,15 +84,14 @@ Los temas tratados durante la sexta semana fueron:
 * Traductores
 * Bots conversacionales
 
-El objetivo del sexto desafio fue Utilizar redes LSTM encoder - decoder para construir un bot conversacional
+El objetivo del sexto desafio fue Utilizar redes LSTM encoder - decoder para construir un bot conversacional.
 
-## Profesores
+## Profesores de la materia
 * Esp. Ing. Hernán Contigiani
 * Msc. Rodrigo Cardenas Szigety
 
-## Autor
-Lionel Gutiérrez
+## Autor e información de interes
+* Lionel Gutiérrez
 
-
-<a href="mailto:lionelgutierrez@gmail.com"><img src="images/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gutierrezlionel/"><img src="images/linkedin.svg" width="100" align="center"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lionelgutierrez@gmail.com"><img src="images/mail.png" width="40" align="center"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gutierrezlionel/"><img src="images/linkedin.svg" width="100" align="center"></a>
 
