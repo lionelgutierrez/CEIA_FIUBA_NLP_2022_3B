@@ -10,7 +10,7 @@ Repositorio para los ejercicios de la materia procesamiento de lenguaje natural,
 ## Contenido
 
 
-### [Desafío 1](Desafio%201\Desafio_1.ipynb)
+### [Desafío 1](Desafio_1.ipynb)
 
 ### [Desafío 2](Desafio%202\Desafio_2.ipynb)
 
