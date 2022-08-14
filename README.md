@@ -86,6 +86,11 @@ Los temas tratados durante la sexta semana fueron:
 
 El objetivo del sexto desafio fue Utilizar redes LSTM encoder - decoder para construir un bot conversacional.
 
+Para este desafio se desarrollaron 2 jupyter notebboks separadas, a fín de probar varias configuraciones de redes y ver el comportamiento del bot con ellas. Los resultados obtenidos fueron similares en ambas configuraciones.
+
+* #### [Desafío 6 prueba 1](Desafio%206/Desafio_6.ipynb)
+* #### [Desafío 6 prueba 2](Desafio%206/Desafio_6_test2.ipynb)
+
 ## Profesores de la materia
 * Esp. Ing. Hernán Contigiani
 * Msc. Rodrigo Cardenas Szigety
