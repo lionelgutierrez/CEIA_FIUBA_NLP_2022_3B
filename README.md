@@ -91,9 +91,13 @@ Para este desafio se desarrollaron 2 jupyter notebboks separadas, a fín de prob
 * #### [Desafío 6 prueba 1](Desafio%206/Desafio_6.ipynb)
 * #### [Desafío 6 prueba 2](Desafio%206/Desafio_6_test2.ipynb)
 
+<HR>
+
 ## Profesores de la materia
 * Esp. Ing. Hernán Contigiani
 * Msc. Rodrigo Cardenas Szigety
+
+<HR>
 
 ## Autor e información de contacto
 * Lionel Gutiérrez
